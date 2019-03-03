@@ -1,0 +1,7 @@
+Big O Run Times
+---------------
+createDataSet() = O(n)
+destroyDataSet() = O(n)
+searchID() = O(1)
+insertion() = O(1)
+deletion() = O(1)
